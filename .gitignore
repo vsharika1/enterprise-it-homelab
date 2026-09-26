@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+.AppleDouble
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Virtual machines
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.vmx
+*.ova
+*.ovf
+
+# ISO files
+*.iso
+
+# Logs
+*.log
+
+# Secrets / credentials
+.env
+.env.*
+credentials.*
+secrets.*
+*.key
+*.pem
+*.pfx
+*.p12
+
+# Temporary files
+*.tmp
+*.bak
+*~
